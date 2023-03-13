@@ -13,7 +13,7 @@
 - [ ] チーム全員が課題１の内容を理解し、特に使用した以下のコマンドの意味を理解する
 - git pull
 - git switch -c 
-- git git add .
+- git add .
 - git commit -m
 - git push origin 
 - [ ] チームで完成させる成果物を決定する
