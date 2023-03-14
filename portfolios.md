@@ -32,6 +32,8 @@
 
 ### ③ [Tic Tac Toe](https://tictactoe-tkwonn.vercel.app/)
 
+<img width="1440" alt="スクリーンショット 2023-03-14 14 23 35" src="https://user-images.githubusercontent.com/91725975/224904603-3d318f33-73ec-48d7-bc60-f0c331161214.png">
+
 要件：三目並べゲームを作成する。
 
 余裕のある方：
@@ -42,6 +44,8 @@
 - [Ultimate Tic Tac Toe](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%80%87%C3%97%E3%82%B2%E3%83%BC%E3%83%A0)として作成等
 
 ### ④ [Tetris](https://tetris-tkwonn.vercel.app/)
+
+<img width="1440" alt="スクリーンショット 2023-03-14 14 25 53" src="https://user-images.githubusercontent.com/91725975/224904635-c826e225-5055-464a-bdcb-eb42dfbde0d5.png">
 
 要件：テトリスを作成する。
 
