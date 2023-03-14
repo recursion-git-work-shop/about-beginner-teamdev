@@ -1,6 +1,8 @@
 # about-beginner-teamdev
 ## 初心者チーム開発の[成果物一覧](https://github.com/recursion-git-work-shop/about-beginner-teamdev/blob/main/portfolios.md)、[チェックリスト](https://github.com/recursion-git-work-shop/about-beginner-teamdev/blob/main/checklist.md)、[デプロイ方法](https://github.com/recursion-git-work-shop/about-beginner-teamdev/blob/main/deploy.md)を載せるドキュメント
 
+余裕がある方は[Organizationとチームのリポジトリの作り方](https://github.com/recursion-git-work-shop/teamleaders/blob/develop/create-repository.md)にも目を通してください。実行するのはチームリーダーです。
+
 
 # チーム開発全体のスケジュール
 
