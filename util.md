@@ -13,3 +13,14 @@
 4. 画面を選択
 5. 共有をクリック
 <img width="1008" alt="スクリーンショット 2023-03-14 14 12 00" src="https://user-images.githubusercontent.com/91725975/224901087-857426a7-f07a-46e8-9bd6-fdbeb90e1651.png">
+
+## LiveServerの使い方
+
+### サーバー作成について
+以前まではChromeのタブににindex.htmlを表示することでweb上での挙動を見ながら開発ができましたが、現状それが不可能になりました。そのためアプリケーションを作る際にはサーバーを立てる必要があります。そこで使用するのがvscodeの拡張機能のLiveServerです。
+
+### 手順
+1. 拡張機能を追加する
+<img width="1004" alt="スクリーンショット 2023-07-29 7 39 27" src="https://github.com/recursion-git-work-shop/about-beginner-teamdev/assets/91725975/f6901ee1-e3f7-4478-b373-f3a2386020f5">
+2. 画面右下、Go Liveをクリックする
+<img width="1004" alt="スクリーンショット 2023-07-29 7 42 45" src="https://github.com/recursion-git-work-shop/about-beginner-teamdev/assets/91725975/78e8530a-25b7-4eec-8c83-68e76fb26193">
